@@ -20,7 +20,7 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 ### Gotz's farm upgrades
 Each one costs lumber and gold, takes 3 nights to build and a letter arrives in your mailbox when it's done.
-- **Bulk shipping:** empty hands + X at a shipping bin ships everything you carry. It also works from the back of the grown horse when you press triangle
+- **Bulk shipping:** empty hands + X at a shipping bin ships everything you carry. It also works when you're on the back of a grown horse and press triangle
 - **Reinforce hothouse:** storms and blizzards can't destroy it.
 - **Hardwood fences:** lumber you place never rots.
 - **Automatic feeders:** troughs for animals inside are filled each night from your fodder stock.
