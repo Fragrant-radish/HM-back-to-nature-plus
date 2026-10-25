@@ -2,7 +2,7 @@
 
 **A mod for Harvest Moon: Back to Nature (PS1, USA)**
 
-Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes where made using the original assests.
+Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes were made using the original assets.
 
 
 
