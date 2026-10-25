@@ -70,7 +70,7 @@ Old saves load fine, but keep a copy of your memory card before playing, just in
 
 
 ## Good to know
-- The developer debug menu used while making the mod is switched off but it has been translated by me into english.
+- The developer debug menu used while making the mod is switched off but it has been translated into english.
 
 ## Found a bug?
 Open an issue in the Issues tab. Say what you were doing, the season and day and which upgrades you had. A screenshot helps a lot.
