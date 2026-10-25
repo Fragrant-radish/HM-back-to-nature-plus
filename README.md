@@ -14,9 +14,10 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 ### Tools
 - **Adamantite tier**, above Mythril. Order it from Saibara like the other upgrades.
   - Bigger work areas: hoe 3x6, sickle 7x7, hammer 3x3.
-  - The watering can holds 30.
+  - The Adamantite can waters 30 squares.
   - The axe gives 18 lumber per stump and uses less stamina.
-- Adamantite shows on the Level page and in the farm score, which can now reach 100.
+  - The hammer patches 3x3 tilled fields.
+- Adamantite shows on the Level page and in the farm score.
 
 ### Gotz's farm upgrades
 Each one costs lumber and gold, takes 3 nights to build and a letter arrives in your mailbox when it's done.
