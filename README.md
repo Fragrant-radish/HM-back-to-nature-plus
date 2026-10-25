@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33919903/README.md)
 # Back to nature+
 
 **A mod for Harvest Moon: Back to Nature (PS1, USA)**
