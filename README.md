@@ -13,7 +13,7 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 ### Tools
 - **Adamantite tier**, above Mythril. Order it from Saibara like the other upgrades.
   - Bigger work areas: hoe 3x6, sickle 7x7, hammer 3x3.
-  - The Adamantite can waters 30 squares.
+  - The Adamantite can waters 36 squares.
   - The axe gives 18 lumber per stump and uses less stamina.
   - The hammer patches 3x3 tilled fields.
 - Adamantite shows on the Level page and in the farm score.
