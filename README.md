@@ -71,7 +71,7 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 
 ### Fixes to the original game
 - Hothouse eggplant and similar items no longer show the wrong colours when carried overhead.
-
+- The farm score can reach 100%. The original never added the power berries or the mystic berry to the score, so it stopped at 88%.
 
 ## How to install
 
