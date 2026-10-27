@@ -4,8 +4,9 @@
 
 Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes were made using the original assets.
 
-**[Back to nature+ v1.1 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.1)**
+**[Download the latest version](../../releases/latest)**
 
+**[Back to nature+ v1.1 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.1)**
 
 ## New in v1.1
 
