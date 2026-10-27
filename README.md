@@ -5,6 +5,30 @@
 Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes were made using the original assets.
 
 
+## New in v1.1
+
+### Rucksack stacks
+
+- Open the **Options** window, its located at the bookshelf of your house. Pick **Rucksack**. It's a permanent choice for that save:
+  - **Classic:** the original bag.
+  - **Stacks:** 9 of a kind in a slot. Once you own the biggest rucksack, the supermarket sells the **Rucksack+** for 33333G, which raises it to 99.
+  - **Stacks 99:** 99 of a kind in a slot from the start (no Rucksack+).
+
+The entry disappears once you've chosen. Old saves also get a choice when you open options.
+- What stacks: things of the same kind and quality. Crops, flowers, weeds, dishes, eggs, milk, wool, fish, ores, fodder. 
+- Your hands always hold one item. **R2** with empty hands takes one from the first stack in the bag, if you put it back, it merges again and that stack moves to the end of the bag. This feels intuitive and works well for the game. Counts show on the menu screen, fridge, cabinet and kitchen. 
+**Select** on a bag slot throws a whole stack away, it will ask you first. 
+- Bulk shipping ships whole stacks. Events that take things from you (Ann's eggs and the mayors requests) take them from your stacks in any order.
+
+### Text speed
+- **Options > Text speed: Normal or Fast.** Fast makes the text about 6 times faster than the original while you hold x. Every box still waits for you to press X again, nothing is skipped.
+
+### Farm score
+- The farm score on the summary page can now reach **100** the way the game intended. Each Power Berry you eat counts 1 (there are 10) and the Mystic Berry counts as 2. In the original the berries were never added, so the score stopped at 88. In v1.0, I had made Adamantite/outfit bonus is reach 100%; the score is the game's own formula again.
+- If you only want this fix see **Farm score fix** below.
+
+
+
 
 <!-- Screenshots: drag images into this file on GitHub's edit page and they appear here -->
 
@@ -68,7 +92,13 @@ If the patcher says the source file doesn't match, your disc isn't the clean USA
 Old saves load fine, but keep a copy of your memory card before playing, just in case something breaks.
 
 
+## Farm score fix (stand-alone)
+
+A separate one-change patch for people who want the **original game with only the farm score fixed**: Power berries count 1 each and the mystic berry 2, so a complete farm reads 100% instead of 88%. Nothing else is changed. It's applied to the clean disc the same way. Not needed with Back to nature+ v1.1, which already has the fix.
+
+
 ## Good to know
+- The Rucksack choice is one per save. To try another mode, start a new game.
 - The developer debug menu used while making the mod is switched off but it has been translated into english.
 
 ## Found a bug?
