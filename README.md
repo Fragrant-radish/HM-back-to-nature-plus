@@ -24,7 +24,7 @@ The entry disappears once you've chosen. Old saves also get a choice when you op
 - **Options > Text speed: Normal or Fast.** Fast makes the text about 6 times faster than the original while you hold x. Every box still waits for you to press X again, nothing is skipped.
 
 ### Farm score
-- The farm score on the summary page can now reach **100** the way the game intended. Each Power Berry you eat counts 1 (there are 10) and the Mystic Berry counts as 2. In the original the berries were never added, so the score stopped at 88. In v1.0, I had made Adamantite/outfit bonus is reach 100%; the score is the game's own formula again.
+- The farm score on the summary page can now reach **100** the way the game intended. Each Power Berry you eat counts 1 (there are 10) and the Mystic Berry counts as 2. In the original the berries were never added, so the score stopped at 88. In v1.0, I had made Adamantite/outfit bonus reach 100%; the score is the game's own formula again.
 - If you only want this fix see **Farm score fix** below.
 
 
