@@ -6,7 +6,12 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 **[Download the latest version](../../releases/latest)**
 
-**[Back to nature+ v1.1 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.1)**
+**[Back to nature+ v1.1.1 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.1.1)**
+
+## v1.1.1 hotfix (28 Oct 2026)
+- Fixes the wife's name on the summary page (the Start menu). Since v1.0 it showed a wrong name (for example "JO") for anyone married and could potentially freeze the game. Nothing else is changed.
+- Same patch, same install steps. If you already play v1.1, apply this one to your clean disc instead, your saves carry over.
+- The stand-alone Farm score fix has the same correction in its new version.
 
 ## New in v1.1
 
@@ -70,6 +75,7 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - The cabinet is available earlier, the pile of boxes in the first house.
 
 ### Fixes to the original game
+- The wife's name on the summary page is right again (v1.1.1).
 - Hothouse eggplant and similar items no longer show the wrong colours when carried overhead.
 - The farm score can reach 100%. The original never added the power berries or the mystic berry to the score, so it stopped at 88%.
 
@@ -86,7 +92,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.1.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.1.1.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
