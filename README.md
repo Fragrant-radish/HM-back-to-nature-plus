@@ -75,7 +75,6 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - The cabinet is available earlier, the pile of boxes in the first house.
 
 ### Fixes to the original game
-- The wife's name on the summary page is right again (v1.1.1).
 - Hothouse eggplant and similar items no longer show the wrong colours when carried overhead.
 - The farm score can reach 100%. The original never added the power berries or the mystic berry to the score, so it stopped at 88%.
 
