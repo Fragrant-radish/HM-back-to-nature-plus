@@ -5,8 +5,23 @@
 Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes were made using the original assets.
 
 **[Download the latest version](../../releases/latest)**
+ 
+**[Back to nature+ v1.2 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.2)**
 
-**[Back to nature+ v1.1.1 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.1.1)**
+## New in v1.2
+
+### Walk through crops
+- Options > Crop walk: On or Off. Off by default, change it any time. When it's on you can walk through your planted crops, now you can harvest that middle crop all the time. 
+
+### Stamina and fatigue under the clock
+- Options > Stamina bar: **Bars**, **Numbers** or **Off**. Off by default, change it any time.
+  - **Bars:** a green stamina bar (turns yellow, orange and red as you tire) and a blue fatigue bar (orange from 50, red from 80).
+  - **Numbers:** "S 140/200" for stamina and "F 10" for fatigue, in small numbers and letters. A line turns red in its last 10%.
+- It hides while menus and money counters are open.
+
+### Fixes
+- Fixed an item sometimes turning invisible in the rucksack and holding nothing when taking it out. Caused by the yarn ball in the tool bag and a full rucksack.
+- The Up button now moves up in the Options menu, this was the games original setting, you could only go down.
 
 ## v1.1.1 hotfix (28 Oct 2026)
 - Fixes the wife's name on the summary page (the Start menu). Since v1.0 it showed a wrong name (for example "JO") for anyone married and could potentially freeze the game. Nothing else is changed.
@@ -91,7 +106,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.1.1.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.2.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
