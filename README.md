@@ -98,7 +98,7 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - **Automatic feeders:** troughs for animals inside are filled each night from your fodder stock.
 - **Build bridge:** a log bridge to the lake island mine, spring to fall, gone in winter.
 - **Expand field:** 190 extra squares east of the stable, plus a water trough by the stable.
-- **Enlarge hothouse:** a much deeper hothouse with four big plots.
+- **Enlarge hothouse:** makes the hothouse much deeper, adding six more 3x3 plots to the original four.
 
 ### Animals
 - **Miracle berry:** Won sells it for 10000G. Eat it and your animals stay happy in bad weather and stray dogs won't scare them.
@@ -150,6 +150,7 @@ A separate one-change patch for people who want the **original game with only th
 ## Good to know
 - The Rucksack choice is one per save. To try another mode, start a new game.
 - The developer debug menu used while making the mod is switched off but it has been translated into english.
+- The Rucksack and Shipping bin choices are one per save and a Hard seasons challenge stays on once chosen.
 
 ## Found a bug?
 Open an issue in the Issues tab. Say what you were doing, the season and day and which upgrades you had. A screenshot helps a lot.
