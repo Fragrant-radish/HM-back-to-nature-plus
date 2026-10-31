@@ -6,7 +6,32 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 **[Download the latest version](../../releases/latest)**
  
-**[Back to nature+ v1.2 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.2)**
+**[Back to nature+ v1.3 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.3)**
+
+## New in v1.3
+
+### Shipping report
+- **Options > Shipping report: On or Off.** Off by default. When you go to bed it shows what you shipped that day, with pictures, the amount shipped, gold and the total gold. It goes up to 8 pages and the rest becomes others. 
+
+### Shipping bin
+- **Options > Shipping bin: Classic or Ship all.** A permanent choice for that save, like Rucksack. Ship all lets you ship your whole rucksack at a bin or from the horse's saddlebag from the start, without Gotz's upgrade. Classic keeps the original bin and Gotz still offers the upgrade.
+
+### Options
+- The Options window has a new **Back to nature+** section with all the mod's settings in one list. Left and right change the settings.
+
+### Hard seasons
+Four challenges that make the game harder. They're in **Options > Hard seasons**, all off by default. Once you turn them on they stay on for that save. The setting asks you first.  
+- **Tools in order:** No skipping ore tiers at Saibara's. Copper, silver, gold, mystrile and then adamantite. 
+- **Expensive town:** Your money drops to 0G when you turn it on and everything in the village costs 50% more. This includes the shops, seeds, animals, Saibara, Gotz, the clinic, the Inn and Won. The lumber for Gotz's jobs stays the same, and TV Shopping keeps its original prices.
+- **Doctor's bill:** collapsing costs 2000G in year 1, 4000G in year 2 and 8000G from year 3 onwards.
+- **Breeding livestock:** Lillia and Barley sell you one of each animal. The rest you breed or hatch. They sell again once you don't own any of that stock.
+
+### Other
+- The supermarket sends you a letter when the Rucksack+ is in, like it does for the large rucksack.
+- Eggs sell by quality: normal 50G, good 60G, excellent 80G, golden 150G
+
+### Fixes
+- The Rucksack+ gave you about 32000G instead of charging 33333G. Now it charges you.
 
 ## New in v1.2
 
@@ -92,6 +117,8 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 ### Fixes to the original game
 - Hothouse eggplant and similar items no longer show the wrong colours when carried overhead.
 - The farm score can reach 100%. The original never added the power berries or the mystic berry to the score, so it stopped at 88%.
+- Golden eggs sell for more than normal eggs, as their description always said. The original paid 50G for every egg.
+- Casting the fishing rod at your horse put the lure in the saddlebag and counted it as a shipment, it didn't affect normal gameplay but caused a freezing issue with the shipping report.
 
 ## How to install
 
@@ -106,7 +133,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.2.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.3.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
