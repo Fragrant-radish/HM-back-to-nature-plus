@@ -4,9 +4,31 @@
 
 Back to nature+ keeps the game you know and adds QOL improvements, a stronger tool tier, farm upgrades that automate tedious actions, coloured hens, new outfits, a new berry and faster boots. Everything uses the game's own art and style. I haven't added any new art into the game all changes were made using the original assets.
 
+
 **[Download the latest version](../../releases/latest)**
  
-**[Back to nature+ v1.3 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.3)**
+**[Back to nature+ v1.4 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.4)**
+
+## New in v1.4
+
+### Ocarina
+- A new tool from **Pastor Carter**. He gives you the ocarina once you've **played at the Music Festival** in fall and he's at **full hearts**. 
+- When played every animal around you counts as talked to and brushed for the day. Cows, sheep, hens, the dog and the horse all show their heart. It works in the barn, the coop and outside.
+- The tune is the ocarina from the game's opening, played on the game's own ocarina sound. The playing animation is the one from the music festival.
+
+### Villagers page
+- **Options > Villager list: On or Off.** Off by default. Adds a **Villagers** page to the start menu. Everyone in town is listed A-Z with their head and their friendship in pink hearts, the same hearts your animals use. The girls hearts follow their affection.
+- The heads are cut from each villager's own sprite in the game.
+
+### Outfits
+- Two new outfit colours at the blacksmith: Orange and Dark green. The outfit list now turns pages like the recipe list.
+ 
+### Options
+- The Options menu turns pages like the recipe list, with the game's orange arrows. L1 and R1 jump a page.
+
+### Fixes
+- Brushing cows and sheep now raises their hearts. In the original the brush did nothing for their hearts.
+
 
 ## New in v1.3
 
@@ -133,7 +155,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.3.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.4.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
