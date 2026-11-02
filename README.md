@@ -141,6 +141,7 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - The farm score can reach 100%. The original never added the power berries or the mystic berry to the score, so it stopped at 88%.
 - Golden eggs sell for more than normal eggs, as their description always said. The original paid 50G for every egg.
 - Casting the fishing rod at your horse put the lure in the saddlebag and counted it as a shipment, it didn't affect normal gameplay but caused a freezing issue with the shipping report.
+- Brushing cows and sheep now raises their hearts (+2 each night you brush them). In the original the brush did nothing for their hearts even though its description says it does.
 
 ## How to install
 
