@@ -7,7 +7,40 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 **[Download the latest version](../../releases/latest)**
  
-**[Back to nature+ v1.4 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.4)**
+**[Back to nature+ v1.5 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.5)**
+
+### Marry all
+- **Options > Marry all.** Off by default. Once you turn it on it stays on for that save and leaves the options menu. The setting asks you first.
+- Marry every girl in town. Your first wife lives with you on the farm and the others stay at home in town.
+- The Blue Feather goes back on the shelf after each wedding, one feather per girl. Each wedding gets its own date and its own heart on the calendar.
+- Every wife talks to you as your wife, everywhere. Their families treat you as married. 
+- Wives you married can be found on the Villagers page with a small blue feather next to their name.
+- The rivals still compete. A girl you haven't married can still marry her rival, just like the original game.
+- A girl's own heart scenes still play while you're married to someone else.
+- **Perk:** a girl you've married lets you into her house and her work any time of day, this includes festivals. Karens is the best one, shop is open 24/7
+- You can turn it on later in a save. If a girl already married her rival she stays married to him.
+- Don't load a Marry all save in an older version of the mod, it breaks the game and the ladies disappear. 
+
+### Title screen
+- The Back to Nature logo on the title screen now has a +.
+
+### Villagers page
+- 5 villagers per screen with more room for the heads and the list wraps around from the bottom to the top.
+
+### Fixes
+- Expand Field: Barley's dog meeting and a few other big scenes could garble the trough area or freeze the game on a fully built farm. The trough now disappears while the scene runs and is back once you leave the area.
+- Expand Field: the new field's squares now look right when tilled, watered and planted.
+- Basic tool swings trails keep their own colour instead of the outfit's colour, except the basic watering can refill that still changes.
+- The farmer keeps his outfit colour in event poses and at the music festival.
+- Villagers page: a girl now shows her first heart when her heart turns purple.
+- Villagers page: the heads could garble the start menu on the Goddess festival morning.
+
+### Fixes to the original game
+- Rivals stop pining for your wife. Rick, Kai, Gray and the Doctor no longer talk about winning over a girl who married you and Rick no longer keeps talking about Karen like she’s single once she’s your wife, in the original he got stuck at a certain romance line. 
+- Popuri as your wife only says "Poor Karen" when Rick really married Karen.
+- Fireworks Festival: Kai only turned up when Mary married Gray. He now comes when he marries Popuri. A girl married to her rival now answers the way she should.
+- Fireworks Festival: Popuri asked you to watch the fireworks with her and then nothing happened. Her line no longer offers that choice.
+- Proposing to a girl in the week before her rival's wedding cancelled the wrong couple's wedding and she could end up married to her rival as well as you. Very rare and hard to trigger in the original but with marry all you might race a rival to his wedding day. Now the right wedding is cancelled.
 
 ## New in v1.4
 
@@ -156,7 +189,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.4.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.5.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
