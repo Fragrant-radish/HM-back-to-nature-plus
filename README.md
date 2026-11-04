@@ -35,12 +35,6 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 - Villagers page: a girl now shows her first heart when her heart turns purple.
 - Villagers page: the heads could garble the start menu on the Goddess festival morning.
 
-### Fixes to the original game
-- Rivals stop pining for your wife. Rick, Kai, Gray and the Doctor no longer talk about winning over a girl who married you and Rick no longer keeps talking about Karen like she’s single once she’s your wife, in the original he got stuck at a certain romance line. 
-- Popuri as your wife only says "Poor Karen" when Rick really married Karen.
-- Fireworks Festival: Kai only turned up when Mary married Gray. He now comes when he marries Popuri. A girl married to her rival now answers the way she should.
-- Fireworks Festival: Popuri asked you to watch the fireworks with her and then nothing happened. Her line no longer offers that choice.
-- Proposing to a girl in the week before her rival's wedding cancelled the wrong couple's wedding and she could end up married to her rival as well as you. Very rare and hard to trigger in the original but with marry all you might race a rival to his wedding day. Now the right wedding is cancelled.
 
 ## New in v1.4
 
@@ -175,6 +169,11 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - Golden eggs sell for more than normal eggs, as their description always said. The original paid 50G for every egg.
 - Casting the fishing rod at your horse put the lure in the saddlebag and counted it as a shipment, it didn't affect normal gameplay but caused a freezing issue with the shipping report.
 - Brushing cows and sheep now raises their hearts (+2 each night you brush them). In the original the brush did nothing for their hearts even though its description says it does.
+- Rivals stop pining for your wife. Rick, Kai, Gray and the Doctor no longer talk about winning over a girl who married you and Rick no longer keeps talking about Karen like she’s single once she’s your wife, in the original he got stuck at a certain romance line. 
+- Popuri as your wife only says "Poor Karen" when Rick really married Karen.
+- Fireworks Festival: Kai only turned up when Mary married Gray. He now comes when he marries Popuri. A girl married to her rival now answers the way she should.
+- Fireworks Festival: Popuri asked you to watch the fireworks with her and then nothing happened. Her line no longer offers that choice.
+- Proposing to a girl in the week before her rival's wedding cancelled the wrong couple's wedding and she could end up married to her rival as well as you. Very rare and hard to trigger in the original but with marry all you might race a rival to his wedding day. Now the right wedding is cancelled.
 
 ## How to install
 
