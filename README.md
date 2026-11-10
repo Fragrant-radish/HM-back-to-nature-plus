@@ -253,6 +253,7 @@ A separate one-change patch for people who want the **original game with only th
 - The Rucksack choice is one per save. To try another mode, start a new game.
 - The developer debug menu used while making the mod is switched off but it has been translated into english.
 - The Rucksack and Shipping bin choices are one per save and a Hard seasons challenge stays on once chosen.
+- Talking to your horse doesn’t raise his hearts, that’s how the original game works. Whistle for him with L2 when you’re in the same area and he comes running and that counts as talking to him.
 
 ## Found a bug?
 Open an issue in the Issues tab. Say what you were doing, the season and day and which upgrades you had. A screenshot helps a lot.
