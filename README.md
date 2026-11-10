@@ -7,7 +7,54 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 **[Download the latest version](../../releases/latest)**
  
-**[Back to nature+ v1.5 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.5)**
+**[Back to nature+ v1.6 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.6)**
+
+
+## New in v1.6
+
+### Town horse
+- **Options > Town horse.** Off by default. A permanent choice for that save.
+- Ride your horse off the farm. Get off anywhere and he waits for you there.
+- At the beach you get off at the town square and he waits for you there. 
+- If a scene takes you indoors while riding, you get off and he goes home to the stable. Left in town overnight, he's back in the stable by morning.
+- Throwing things into his saddlebag off the farm ships them as well. 
+
+### Tack colors
+- Barley sells 12 saddle colours (the pony wears them as a scarf) once you own the pony or horse. 500G each, buy once and switch for free any time. The original is always free.
+- The colour shows in cutscenes and the horse race too.
+
+### Golden brush
+- Bring Saibara your brush and a gold ore to upgrade the brush. Brushing with it counts double for cows, sheep and the horse. It costs 3000G and 3 days like Saibara's other jobs. 
+
+### Shuffle field and All seeds
+- **Options > Shuffle field** (first day only, top of the list): opens its own page. Shuffle the weeds, stones, branches, stumps and rocks on your field as often as you like.
+- **Options > All seeds** (one-time choice, Classic or All seeds): Jeff sells strawberry, pumpkin and spinach from day one. Once you choose, the row leaves the menu.
+
+### Clock settings
+- **Options > Clock settings**, change them any time:
+  - **Speed: Normal, Half or Quarter.** Half makes each day last twice as long, Quarter four times. A new speed starts the next morning. Villagers keep to their schedules at every speed.
+  - **Minutes: On or Off.** Off by default. The clock shows every minute like PM 8:47
+
+### Wild weather
+- **Options > Wild weather**, a new page, its switches are permanent for that save.
+- **Rainy mineral town:** the odds for sunny days get flipped to rainy days (not in winter). Once it's on, the row leaves the menu.
+
+### Easy seasons
+- **Options > Easy seasons**, a new page next to Hard seasons. Its switches are permanent for that save.
+- **No hurricanes:** hurricanes come as rain and blizzards as snow.
+
+### Classic game
+- **Options > Classic game.** Off by default. A permanent choice for that save.
+- Play the original game without the mod's new content: no Gotz upgrades, no Adamantite tier, no golden brush, no new outfits, no running boots, no miracle berry, no tack colours, no ocarina, no coloured hens, and no extra gold-badge animals at the festivals.
+- All your options and every fix stay. Classic game only takes out the new content.
+- Only offered on a save that hasn't bought or earned any of the extras yet, works best on a new game. Nothing you own is taken away.
+
+### Fixes
+- The Cooking Festival's result fanfare played the ocarina's tune since v1.4. It plays its own fanfare again.
+- The Miracle berry now also stops the stray dog's loss while you sleep with it still on the farm.
+
+
+## New in v1.5
 
 ### Marry all
 - **Options > Marry all.** Off by default. Once you turn it on it stays on for that save and leaves the options menu. The setting asks you first.
@@ -188,7 +235,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.5.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.6.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
