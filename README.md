@@ -286,9 +286,13 @@ A separate one-change patch for people who want the **original game with only th
 - The developer debug menu used while making the mod is switched off but it has been translated into english.
 - The Rucksack and Shipping bin choices are one per save and a Hard seasons challenge stays on once chosen.
 - Talking to your horse doesn’t raise his hearts, that’s how the original game works. Whistle for him with L2 when you’re in the same area and he comes running and that counts as talking to him.
+- Cheat codes: the mod doesn’t change how cheats work. Your emulator may not list its built-in cheats for the patched disc, so add your codes by hand.
+-Codes for gold, stamina, tools, items and hearts work as normal. Avoid codes with an address from 800B7E20 to 8013FFFF, such as the “no dead animals” and dog or horse heart codes. They were made for the original game’s code and can break things in the mod.
+ 
+
 
 ## Found a bug?
-Open an issue in the Issues tab. Say what you were doing, the season and day and which upgrades you had. A screenshot helps a lot.
+Open an issue in the Issues tab. Say what you were doing, the season and day and which upgrades you had. A screenshot and save state helps a lot.
 
 ## Credits
 - Mod by Fragrant-radish.
