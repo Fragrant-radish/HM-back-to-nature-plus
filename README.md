@@ -252,7 +252,7 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - Fireworks Festival: Popuri asked you to watch the fireworks with her and then nothing happened. Her line no longer offers that choice.
 - Proposing to a girl in the week before her rival's wedding cancelled the wrong couple's wedding and she could end up married to her rival as well as you. Very rare and hard to trigger in the original but with marry all you might race a rival to his wedding day. Now the right wedding is cancelled.
 - The top of the axe's swing trail stayed grey on every tier. It now matches the tool's colour.
-- An old animal could vanish without a word when a different animal died of sickness. It no longer does. This was never intended: animals were supposed to pass away with age, at 3 years for chickens and sheep and 8 years for cows. In the original release that never happens, so every animal lives forever as long as none get sick. But when one dies of sickness and the funeral scene plays, every animal marked as old disappears along with it.
+- An old animal could vanish without a trace when a different animal died of sickness. It no longer does. This was never intended, animals were supposed to pass away with age, at 3 years for chickens and sheep and 8 years for cows. In the original release that never happens, so every animal lives forever as long as none get sick. But when one dies of sickness and the funeral scene plays, every animal marked as old disappears along with it.
 
 ## How to install
 
@@ -287,7 +287,7 @@ A separate one-change patch for people who want the **original game with only th
 - The Rucksack and Shipping bin choices are one per save and a Hard seasons challenge stays on once chosen.
 - Talking to your horse doesn’t raise his hearts, that’s how the original game works. Whistle for him with L2 when you’re in the same area and he comes running and that counts as talking to him.
 - Cheat codes: the mod doesn’t change how cheats work. Your emulator may not list its built-in cheats for the patched disc, so add your codes by hand.
--Codes for gold, stamina, tools, items and hearts work as normal. Avoid codes with an address from 800B7E20 to 8013FFFF, such as the “no dead animals” and dog or horse heart codes. They were made for the original game’s code and can break things in the mod.
+- Codes for gold, stamina, tools, items and hearts work as normal. Avoid codes with an address from 800B7E20 to 8013FFFF, such as the “no dead animals” and dog or horse heart codes. They were made for the original game’s code and can break things in the mod.
  
 
 
