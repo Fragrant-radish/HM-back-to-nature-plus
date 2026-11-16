@@ -7,7 +7,37 @@ Back to nature+ keeps the game you know and adds QOL improvements, a stronger to
 
 **[Download the latest version](../../releases/latest)**
  
-**[Back to nature+ v1.6 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.6)**
+**[Back to nature+ v1.7 — patches and readmes](https://github.com/Fragrant-radish/HM-back-to-nature-plus/releases/tag/v1.7)**
+
+
+## New in v1.7
+
+### Sprinklers
+- Saibara makes two new items: the **Sprinkler** waters 8 squares around it every morning, the **Big Sprinkler** waters 24.
+- A Sprinkler costs 3000G and a Mystrile ore, a Big Sprinkler 10000G and an Adamantite ore. Order as many as you have ore and gold for. Keep the ore in your rucksack, not your hand.
+- They are ready the next day. Talk to Saibara to pick them up. They go into your rucksack and what doesn't fit goes to your cabinet. If both are full he keeps the rest until you make room.
+- Put them down on the farm field, the extra field or in the Hothouse. Pick them up again any time.
+- Outdoors they don't run on a rainy morning or in winter. In the Hothouse they run all year.
+- Not sold in the Classic game.
+
+### Single seeds
+- **Options > Single seeds.** Off by default.
+- With it on, press **Select** on a seed bag on the Triangle screen to switch that stack between sowing a whole bag and sowing one seed at a time.
+- A single seed goes on the square in front of you. A bag holds 9 seeds, and the number on the bag shows all the seeds while it's switched on.
+- Nine single seeds cost the same stamina as one bag.
+- If you have a part-used bag and switch back to throwing it the normal way, it sows the seeds that are left in it.
+
+### Shipping report
+- A new **Shipped by sprites** page. The report now lists what you shipped and what the Harvest Sprites shipped separately, each with its own total.
+- What the sprites ship while you sleep through the 5pm pickup shows on the next night's report.
+
+### Old age
+- **Options > Old age.** Off by default. A permanent choice for that save.
+- Old hens and sheep (from 3 years) and cows (from 8 years) pass away in time, with the farewell the game always had but never showed.
+
+### Fixes
+- Upgrade Feeders left old animals unfed. They are fed like the rest now.
+- The ocarina now reaches old animals too.
 
 
 ## New in v1.6
@@ -221,6 +251,8 @@ Each one costs lumber and gold, takes 3 nights to build and a letter arrives in 
 - Fireworks Festival: Kai only turned up when Mary married Gray. He now comes when he marries Popuri. A girl married to her rival now answers the way she should.
 - Fireworks Festival: Popuri asked you to watch the fireworks with her and then nothing happened. Her line no longer offers that choice.
 - Proposing to a girl in the week before her rival's wedding cancelled the wrong couple's wedding and she could end up married to her rival as well as you. Very rare and hard to trigger in the original but with marry all you might race a rival to his wedding day. Now the right wedding is cancelled.
+- The top of the axe's swing trail stayed grey on every tier. It now matches the tool's colour.
+- An old animal could vanish without a word when a different animal died of sickness. It no longer does. This was never intended: animals were supposed to pass away with age, at 3 years for chickens and sheep and 8 years for cows. In the original release that never happens, so every animal lives forever as long as none get sick. But when one dies of sickness and the funeral scene plays, every animal marked as old disappears along with it.
 
 ## How to install
 
@@ -235,7 +267,7 @@ A .chd of the USA disc works too. Turn it back into .bin/.cue first with `chdman
 
 1. Back up your original .bin.
 2. Get Delta Patcher (or any xdelta3 patcher).
-3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.6.xdelta`.
+3. Original file = your clean .bin. Patch file = `Harvest.Moon.Back.To.Nature.Plus.v1.7.xdelta`.
 4. Apply. Point your .cue at the new .bin (rename the .bin to match, or edit the .cue's first line).
 5. Play on an emulator (DuckStation, ePSXe, etc.) or burn it.
 
